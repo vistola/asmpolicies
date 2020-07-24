@@ -1,6 +1,6 @@
 {
     "policy": {
-        "name": "arcadia11-WAF-API-policy.json",
+        "name": "policy-api-arcadia",
         "description": "Arcadia API",
         "template": {
             "name": "POLICY_TEMPLATE_API_SECURITY"
@@ -23,5 +23,10 @@
         "policy-builder": {
             "learnOnlyFromNonBotTraffic": false
         },
+        "open-api-files": [
+            {
+            "link": "https://api.swaggerhub.com/apis/F5EMEASSA/Arcadia-OAS3/1.0.0-oas3"
+            }
+        ]
     }
 }
