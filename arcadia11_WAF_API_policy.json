@@ -24,7 +24,7 @@
             "learnOnlyFromNonBotTraffic": false
         },
         "openApiFileReference": {    
-          "link": "https://raw.githubusercontent.com/vistola/asmpolicies/master/swagger_arcadia.yaml"
+          "link": "https://api.swaggerhub.com/apis/F5EMEASSA/Arcadia-OAS3/1.0.0-oas3"
         }
     }
 }
