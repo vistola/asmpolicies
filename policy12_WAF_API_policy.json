@@ -1,6 +1,6 @@
 {
     "policy": {
-        "name": "policy-api-arcadia",
+        "name": "policy12_WAF_API_policy",
         "description": "Arcadia API",
         "template": {
             "name": "POLICY_TEMPLATE_API_SECURITY"
